@@ -13,3 +13,7 @@ This template is a more complex variation that features additional elements such
 ## template-web.html
 
 This template is built for modern web browsers, but faces compatibility issues in mail clients. It uses semantic HTML5 elements and a div structure instead of the table structure found in the other templates.
+
+Content, such as images and fonts, is loaded from [static.iww.org](https://static.iww.org), itself a private [GitHub Repostory](https://github.com/iww/static).
+
+### [IWW Red Card](https://redcard.iww.org)
