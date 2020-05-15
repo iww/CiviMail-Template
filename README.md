@@ -18,4 +18,4 @@ This template is built for modern web browsers, but faces compatibility issues i
 
 Content, such as images and fonts, is loaded from [static.iww.org](https://static.iww.org), itself a [private GitHub repostory](https://github.com/iww/static).
 
-### [IWW Red Card](https://redcard.iww.org)
+### [IWW Red Card ➫](https://redcard.iww.org)
