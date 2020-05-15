@@ -1,6 +1,6 @@
 # CiviMail-Templates
 
-This repository is home to three variations of our new CiviCRM email template.
+This repository is home to three variations of the union's new CiviCRM email template.
 
 ## template-simple.html
 
