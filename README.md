@@ -4,7 +4,7 @@ This repository is home to three variations of the union's new CiviCRM email tem
 
 ## template-simple.html
 
-This template is a simple variation that follows a similar structure to that of the preivously used templates.
+This template is a simple variation that follows a similar structure to that of the preivously used template.
 
 ## template-fun.html
 
