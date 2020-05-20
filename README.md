@@ -21,7 +21,7 @@ Content, such as images and fonts, is loaded from [static.iww.org](https://stati
 *\*Note that the General Secretary-Treasurer's name has been redacted from these versions.*
 
 ### [IWW Red Card ➫](https://redcard.iww.org)
-
+'''
                       ___                              
             .        |   |        .           
          __.'.__     |   |     __.'.__        
@@ -35,3 +35,4 @@ ____    __    ____           ____    __    ____
   \            /   '-.   .-'   \            /   
    \    /\    /      /.'.\      \    /\    /    
     \__/  \__/       '   '       \__/  \__/     
+'''
