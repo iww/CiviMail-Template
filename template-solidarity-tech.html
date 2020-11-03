@@ -402,22 +402,8 @@
         <td style="padding: 0;border: 0;">
           <table class="main" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;border: 0;color: #424242;font-family: 'Arvo', 'Courier', Georgia, serif;font-size: 16px;line-height: 150%;">
             <tr>
-              <td style="padding: 0;border: 0;">
-                <p><strong>Dear Fellow Worker {contact.display_name},</strong></p>
-              </td>
-            </tr>
-            <tr>
               <td style="padding: 0;border: 0;">&nbsp;
-                <p>[content]</p>
-              </td>
-            </tr>
-            <tr>
-              <td style="padding: 0;border: 0;">
-                &nbsp;<p><em>Thanks & Solidarity!</em><br><br>
-                For the One Big Union,<br>
-                __________________<br>
-                General Secretary-Treasurer<br>
-                <a href="https://iww.org" style="text-decoration: none;font-weight: bold;color: #b0212b;">Industrial Workers of the World</a></p>
+                {{ content }}
               </td>
             </tr>
           </table>
@@ -452,12 +438,15 @@
             </tr>
             <tr>
               <td style="padding: 0;border: 0;">
-                <a href="{action.optOutUrl}" style="text-decoration: none;font-weight: bold;color: #b0212b;">Click here to unsubscribe from future emails.</a><br><br>
+                <a href="{{unsubscribe_url}}" style="text-decoration: none;font-weight: bold;color: #b0212b;">Click here to unsubscribe from future emails.</a><br><br>
               </td>
             </tr>
             <tr>
               <td style="padding: 0;border: 0;">
-                <strong><span>Industrial Workers of the World</span>{domain.address}</strong>
+                <p><strong>Industrial Workers of the World</strong><br>
+                P.O. Box 180195<br>
+                Chicago, IL 60618-0603<br>
+                United States</p>
               </td>
             </tr>
           </table>
