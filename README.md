@@ -20,7 +20,7 @@ This template is built for [Solidarity Tech](https://solidarity-tech.org), for u
 
 ---
 
-Content, such as images and fonts, is loaded from [static.iww.org](https://static.iww.org), itself a [GitHub repostory](https://github.com/iww/static).
+Content, such as images and fonts, is loaded from [static.iww.org](https://static.iww.org), itself a [GitHub repostory](https://github.com/iww/static.iww.org).
 
 *\*Note that the General Secretary-Treasurer's name has been redacted from these versions.*
 
