@@ -1,4 +1,4 @@
-# IWW Email Templates
+# IWW Email Wrappers
 
 This repository is home to different variations of the union's email wrappers.
 
@@ -22,6 +22,8 @@ This wrapper is built for [Solidarity Tech](https://solidarity-tech.org), for us
 
 Content, such as images and fonts, is loaded from [static.iww.org](https://static.iww.org), itself a [GitHub repostory](https://github.com/iww/static.iww.org).
 
-*\*Note that the General Secretary-Treasurer's name has been redacted from these versions.*
+*Note that the General Secretary-Treasurer's name has been redacted from these versions.*
+
+*Filler text borrowed from Mailchimp.*
 
 ### [IWW Red Card ➫](https://redcard.iww.org)
