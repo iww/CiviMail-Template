@@ -4,11 +4,11 @@ This repository is home to different variations of the union's email wrappers.
 
 ## wrapper-simple.html
 
-This CiviMail wrapper is a simple variation that follows a similar structure to that of the previously used wrapper.
+This email wrapper is a simple variation that follows a similar structure to that of the previously used wrapper.
 
 ## wrapper-fun.html
 
-This CiviMail wrapper is a more complex variation that features additional elements such as a call-to-action button, a content divider, and a list.
+This email wrapper is a more complex variation that features additional elements such as a call-to-action button, a content divider, and a list.
 
 ## wrapper-web.html
 
